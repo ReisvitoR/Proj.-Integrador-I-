@@ -7,4 +7,4 @@
 #**Tema Principal:** Demonstração de Software com finalidade para cadastro e controle de recem nascidos e da utilização de vacinas BCG.<br />
 #**Software name:** Smart BCG.<br />
 #**Aréa Aplicável:** Saúde.<br />
-#**Resolução de problemas:** Maior controle sobre custo vacinal e estatisticas de crianças imunes a hepatite B.
+#**Resolução de problemas:** Maior controle sobre custo vacinal e estatisticas de crianças imunes a hepatite B por meio da BCG.
